@@ -1,0 +1,22 @@
+{
+  "model_key": "embed_lstm",
+  "model_name": "Word Embedding + LSTM",
+  "accuracy": 0.515,
+  "precision_macro": 0.5431,
+  "recall_macro": 0.4809,
+  "macro_f1": 0.4679,
+  "weighted_f1": 0.5195,
+  "training_time_seconds": 207.6428,
+  "prediction_time_seconds": 1.7024,
+  "labels": [
+    "Adequate",
+    "Effective",
+    "Ineffective"
+  ],
+  "extra_info": {
+    "device": "cpu",
+    "vocab_size": 20000,
+    "best_internal_val_macro_f1": 0.4594,
+    "max_sequence_length": 128
+  }
+}

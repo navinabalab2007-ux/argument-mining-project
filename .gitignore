@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+.streamlit/secrets.toml
+
+
+models/saved/tfidf_rf/model.joblib
+
+outputs/

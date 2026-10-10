@@ -1,0 +1,23 @@
+{
+  "model_key": "aux_discourse_type",
+  "model_name": "Auxiliary: TF-IDF + Logistic Regression (discourse_type)",
+  "accuracy": 0.6207,
+  "precision_macro": 0.5234,
+  "recall_macro": 0.5883,
+  "macro_f1": 0.5463,
+  "weighted_f1": 0.6312,
+  "training_time_seconds": 5.4264,
+  "prediction_time_seconds": 0.0043,
+  "labels": [
+    "Claim",
+    "Concluding Statement",
+    "Counterclaim",
+    "Evidence",
+    "Lead",
+    "Position",
+    "Rebuttal"
+  ],
+  "extra_info": {
+    "note": "Auxiliary classifier for discourse_type, not part of the 6-model comparison."
+  }
+}

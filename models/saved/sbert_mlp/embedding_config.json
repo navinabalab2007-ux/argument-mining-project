@@ -1,0 +1,4 @@
+{
+  "sentence_transformer_model": "sentence-transformers/all-MiniLM-L6-v2",
+  "text_column_used": "original_text"
+}

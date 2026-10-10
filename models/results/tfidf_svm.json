@@ -1,0 +1,19 @@
+{
+  "model_key": "tfidf_svm",
+  "model_name": "TF-IDF + Linear SVM",
+  "accuracy": 0.6438,
+  "precision_macro": 0.6599,
+  "recall_macro": 0.4654,
+  "macro_f1": 0.4596,
+  "weighted_f1": 0.5796,
+  "training_time_seconds": 4.0283,
+  "prediction_time_seconds": 0.0116,
+  "labels": [
+    "Adequate",
+    "Effective",
+    "Ineffective"
+  ],
+  "extra_info": {
+    "note": "LinearSVC wrapped in CalibratedClassifierCV to provide predict_proba."
+  }
+}

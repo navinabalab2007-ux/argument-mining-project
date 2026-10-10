@@ -1,0 +1,10 @@
+{
+  "best_model": "TF-IDF + Logistic Regression",
+  "model_key": "tfidf_logreg",
+  "model_type": "sklearn_tfidf",
+  "metric": "macro_f1",
+  "score": 0.5638,
+  "accuracy": 0.5833,
+  "weighted_f1": 0.5906,
+  "artifacts_dir": "models\\saved\\tfidf_logreg"
+}

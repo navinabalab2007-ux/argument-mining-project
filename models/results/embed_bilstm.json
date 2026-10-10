@@ -1,0 +1,22 @@
+{
+  "model_key": "embed_bilstm",
+  "model_name": "Word Embedding + BiLSTM",
+  "accuracy": 0.5637,
+  "precision_macro": 0.5339,
+  "recall_macro": 0.5621,
+  "macro_f1": 0.5403,
+  "weighted_f1": 0.5722,
+  "training_time_seconds": 11853.3136,
+  "prediction_time_seconds": 3.5513,
+  "labels": [
+    "Adequate",
+    "Effective",
+    "Ineffective"
+  ],
+  "extra_info": {
+    "device": "cpu",
+    "vocab_size": 20000,
+    "best_internal_val_macro_f1": 0.5218,
+    "max_sequence_length": 128
+  }
+}

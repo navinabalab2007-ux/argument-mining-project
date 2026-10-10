@@ -1,0 +1,37 @@
+discourse_id,essay_id,discourse_text,discourse_type,discourse_effectiveness
+S001,E1,"Some schools make students wear uniforms, and I think this is a good idea.",Position,Adequate
+S002,E1,Uniforms reduce distractions because students no longer compete over expensive clothes.,Claim,Effective
+S003,E1,"For example, a 2019 survey of 400 teachers found that 62 percent saw fewer classroom conflicts after a uniform policy began.",Evidence,Effective
+S004,E1,Some people argue that uniforms limit self-expression.,Counterclaim,Adequate
+S005,E1,"However, students can still show personality through hobbies, friendships, and accessories that fit the rules.",Rebuttal,Adequate
+S006,E1,"In conclusion, uniforms help schools stay focused and fair.",Concluding Statement,Adequate
+S007,E2,Homework is bad and schools should stop it.,Position,Ineffective
+S008,E2,Students get tired and stressed when they have too much homework every night.,Claim,Adequate
+S009,E2,My cousin has a lot of homework and it is bad for him.,Evidence,Ineffective
+S010,E2,Teachers might say homework helps students practice what they learned.,Counterclaim,Adequate
+S011,E2,But practice can happen in class where the teacher can give help right away.,Rebuttal,Adequate
+S012,E2,So homework should be stopped.,Concluding Statement,Ineffective
+S013,E3,Online education is better because it is easy.,Position,Ineffective
+S014,E3,"Students can choose when to study, which helps those who also have jobs or family duties.",Claim,Adequate
+S015,E3,"According to a 2020 report by a national education agency, about one third of college students worked at least 20 hours a week.",Evidence,Effective
+S016,E3,Critics say online learning makes students feel isolated.,Counterclaim,Adequate
+S017,E3,"Video calls and discussion boards let learners meet classmates, so isolation can be reduced with good course design.",Rebuttal,Effective
+S018,E3,"Overall, online education gives flexibility that many students need.",Concluding Statement,Adequate
+S019,E4,Have you ever counted how many hours you spend on your phone each day?,Lead,Adequate
+S020,E4,Social media should be limited for teenagers.,Position,Adequate
+S021,E4,"Too much screen time cuts into sleep, and tired students do worse on tests.",Claim,Effective
+S022,E4,"Research from sleep clinics, such as a study of 1,200 teens, links late-night phone use to shorter sleep.",Evidence,Effective
+S023,E4,Social media is a thing that is not good for people.,Claim,Ineffective
+S024,E4,"To sum up, parents and schools should set clear time limits.",Concluding Statement,Adequate
+S025,E5,Cities must make recycling mandatory.,Position,Adequate
+S026,E5,Mandatory recycling lowers the amount of waste that ends up in landfills.,Claim,Adequate
+S027,E5,"In Seattle, the recycling rate rose from 38 percent to over 50 percent after the city required it.",Evidence,Effective
+S028,E5,Others believe that mandatory rules are too costly for small towns.,Counterclaim,Adequate
+S029,E5,"Yet the savings from smaller landfills can pay back the cost over time, since less waste means lower disposal fees.",Rebuttal,Effective
+S030,E5,"Therefore, mandatory recycling is a wise choice for every city.",Concluding Statement,Adequate
+S031,E6,Schools should start later in the morning.,Position,Adequate
+S032,E6,"Teenagers need more sleep, and early starts make it hard to get enough.",Claim,Adequate
+S033,E6,Everyone knows that sleeping is good.,Evidence,Ineffective
+S034,E6,Some parents worry that later starts will disrupt work schedules.,Counterclaim,Adequate
+S035,E6,"Schools could offer supervised morning programs, which would help families who need early drop-off.",Rebuttal,Effective
+S036,E6,"In conclusion, a later start would help students learn better.",Concluding Statement,Adequate

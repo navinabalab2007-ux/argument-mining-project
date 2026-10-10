@@ -1,0 +1,21 @@
+{
+  "model_key": "sbert_mlp",
+  "model_name": "Sentence Transformer + MLP",
+  "accuracy": 0.6559,
+  "precision_macro": 0.6298,
+  "recall_macro": 0.5213,
+  "macro_f1": 0.535,
+  "weighted_f1": 0.6228,
+  "training_time_seconds": 643.1188,
+  "prediction_time_seconds": 184.873,
+  "labels": [
+    "Adequate",
+    "Effective",
+    "Ineffective"
+  ],
+  "extra_info": {
+    "sentence_transformer_model": "sentence-transformers/all-MiniLM-L6-v2",
+    "text_column_used": "original_text",
+    "embedding_dim": 384
+  }
+}
